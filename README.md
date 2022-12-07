@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prathviraj
-- 👀 I’m interested in Front end web technologies
-- 🌱 I’m currently learning react native and js
+- 🌱 I’m currently working on GoLang and PLSQL
 - 📫 How to reach me 
     prathviraj200011@gmail.com
   
